@@ -13,5 +13,11 @@
     margin-top: 20px;
 }
 .margin-none {
-    margin 0;
+    margin 1000px;
+}
+.name-heading {
+    text-align: center;
+}
+.circular-square {
+    float:left
 }
