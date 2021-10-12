@@ -16,8 +16,9 @@ This is my week one Independent Portfolio practising on HTML and CSS.
 ##### Setup Instructions and Installation
 
 To run the application in your terminal:
-1. Clone or download the repository.
-2. Push the URL to your local git terminal as local repository. 
+1. Clone or download the repository.https://github.com/conceptacherono/Landing-portfolio.git
+2. Open terminal command line then navigate to the root folder of the application. "cd Landing Portfolio."
+3. Open "index.html" on your browser.
 
 
 
