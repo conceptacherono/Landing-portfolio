@@ -15,7 +15,10 @@ This is my week one Independent Portfolio practising on HTML and CSS.
 
 ##### Setup Instructions and Installation
 
-- Explain steps to clone, install and run the application on a local machine.
+To run the application in your terminal:
+1. Clone or download the repository.
+2. Push the URL to your local git terminal as local repository. 
+
 
 
 ## Development
